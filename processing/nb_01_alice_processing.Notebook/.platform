@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "nb_01_alice_processing"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a98ddb29-8052-86f1-4513-08d1ef9736f3"
+  }
+}
